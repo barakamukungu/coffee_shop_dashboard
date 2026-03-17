@@ -58,7 +58,8 @@ The dashboard includes:
 ## Files
 
 coffee_dashboard.xlsx - Excel dashboard  
-images/ -
 ![Revenue by Hour](images/revenue_by_hour.png)
+
 ![Revenue by Product Category](images/revenue_by_category.png)
+
 ![Revenue by Location](images/store_revenue.png)
